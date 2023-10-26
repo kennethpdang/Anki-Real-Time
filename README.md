@@ -3,7 +3,7 @@ This is an [Anki](https://apps.ankiweb.net/) plugin which permits the user to ty
 
 ## What's the Problem?
 We are trying our best to simulate how "The Bible Memory" app works. This is a very well regarded app that also uses spaced-repitition similar to Anki. This app is used primarily by undercollegiate contestants (people in middle school and high school) to memorize Bible Verses for an annual Bible Bee where students can win fincancial prizes. In this app, we type out characters to our Bible verse and it highlights when the next character type is incorrect. See the GIF below:
-[Bible Memory Example](readme_images/Bible%20Memory%20Example.gif)
+![Bible Memory Example](readme_images/Bible%20Memory%20Example.gif)
 
 The closest we can get to a similar feature in Anki without this plugin, is by adding a new card and using the "Basic (type in the answer)" card type.
 
