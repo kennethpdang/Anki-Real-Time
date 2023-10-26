@@ -12,4 +12,4 @@ The closest we can get to a similar feature in Anki without this plugin, is by a
 Our Anki plugin uses the Anki library which we can install by using:
 > pip install anki
 
-On visual studios.
+On visual studios. All Anki plugins must go in the Anki addon folder. Anki attempts to go through each folder in the addon folder and look for something containing `__init__.py`. If this file is NOT in the folder, then Anki skips it.
